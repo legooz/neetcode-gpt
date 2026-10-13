@@ -1,7 +1,6 @@
 # My GPT — Built from Scratch
 
 > Assembled from the NeetCode ML course on [NeetCode.io](https://neetcode.io)
-> Built by **Lars Goozen** on May 13, 2026
 
 Every file in this project is code I wrote and submitted while completing the NeetCode ML course.
 The problems progressively build from gradient descent fundamentals all the way to a working GPT.
@@ -55,3 +54,7 @@ This project was built by completing the [NeetCode ML Course](https://neetcode.i
 - NLP pipeline (embeddings, tokenization, attention)
 - Transformer architecture
 - GPT model + text generation
+
+## Attribution
+
+Course origin and author credit are recorded in [NOTICE.md](NOTICE.md).
