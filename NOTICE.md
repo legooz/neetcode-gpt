@@ -1,5 +1,5 @@
 # Attribution
 
-Project work by Lars Goozen, originally recorded May 13, 2026.
+Course origins, collaborator credits, and third-party acknowledgments are collected in the [shared portfolio attribution](https://github.com/legooz/engineering-portfolio/blob/main/ATTRIBUTION.md#neetcode-gpt).
 
-Assembled from the NeetCode ML course on [NeetCode.io](https://neetcode.io).
+Original author, copyright, and license notices remain in the relevant source files.
